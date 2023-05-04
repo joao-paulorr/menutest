@@ -30,7 +30,10 @@
     padding: 20px;
     color: rgb(255, 135, 135);
 }
-input, select, textarea{
+
+input,
+select,
+textarea {
     background-color: rgb(255, 135, 135);
 }
 
