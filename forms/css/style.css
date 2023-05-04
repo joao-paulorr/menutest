@@ -11,7 +11,7 @@
 }
 
 #menu ul li a {
-    color: rgb(255, 135, 135);
+    color: rgb(255, 150, 150);
     padding: 20px;
     text-decoration: none;
     display: inline-block;
@@ -47,5 +47,9 @@ input, select, textarea, button{
 #corpoq {
     line-height: 1.70;
     padding: 20px;
+    color: rgb(230, 166, 166);
+}
+
+a {
     color: rgb(230, 166, 166);
 }
